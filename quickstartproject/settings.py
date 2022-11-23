@@ -26,7 +26,7 @@ SECRET_KEY = 's5oxBirjjiBHLRBqTYq3m3iSPP5gizozsAAGs8DujNnZdiNGCgTEM0mAS62u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['appsupermarket.azurewebsites.net']
 
 
 # Application definition
